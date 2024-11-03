@@ -1,0 +1,38 @@
+[2024/11/03 01:00:36]: §9          __             _       
+[2024/11/03 01:00:36]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/11/03 01:00:36]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/11/03 01:00:36]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/11/03 01:00:36]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/11/03 01:00:36]: §9                  |___/            
+[2024/11/03 01:00:36]: §9 By: www.nickuc.com - V 10.3.27
+[2024/11/03 01:00:36]: §9 
+[2024/11/03 01:00:36]: §3[nLogin] [DEBUG] All settings were loaded in 159 ms.
+[2024/11/03 01:00:36]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/11/03 01:00:36]: §3[nLogin] [DEBUG] All plugin messages were loaded in 74 ms (languageByClient=false).
+[2024/11/03 01:00:36]: §3[nLogin] [DEBUG] All proxy settings were loaded in 8 ms.
+[2024/11/03 01:00:36]: §3[nLogin] [DEBUG] Loading database...
+[2024/11/03 01:00:37]: [nLogin] Generating RSA keypair... (this may take a while)
+[2024/11/03 01:00:38]: [nLogin] The RSA key pair was successfully generated. Took 1.10s
+[2024/11/03 01:00:38]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/11/03 01:00:39]: [nLogin] Download finished (took 3127ms, hash = bcdd0d07f4e3098e91cba27994818024b78ad4e137c7b7eb64a04b4aa8b23c2b)
+[2024/11/03 01:00:43]: 
+[2024/11/03 01:00:43]:  §bThank you so much for choosing nLogin! §4<3
+[2024/11/03 01:00:43]: 
+[2024/11/03 01:00:43]:  §4For your safety, please read the message below:
+[2024/11/03 01:00:43]:   §cNever download nLogin from unknown sources.
+[2024/11/03 01:00:43]:   §cA modified version may contain malicious software.
+[2024/11/03 01:00:43]: 
+[2024/11/03 01:00:43]:  §3Trusted sources:
+[2024/11/03 01:00:43]:   §bwww.nickuc.com
+[2024/11/03 01:00:43]:   §bwww.github.com/nickuc
+[2024/11/03 01:00:43]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/11/03 01:00:43]: 
+[2024/11/03 01:00:43]:  §3Official support channels:
+[2024/11/03 01:00:43]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/11/03 01:00:43]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/11/03 01:00:43]:   §bEmail: §fsupport@nickuc.com
+[2024/11/03 01:00:43]:   §bYouTube: §fyoutube.com/nickuc
+[2024/11/03 01:00:43]: 
+[2024/11/03 01:00:43]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/11/03 01:00:43]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/11/03 01:00:43]: 
